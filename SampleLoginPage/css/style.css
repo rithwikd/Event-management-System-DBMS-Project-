@@ -1,0 +1,172 @@
+
+
+#main-wrapper{
+    width: 700px;
+    margin: 0 auto;
+    background: white;
+    padding: 5px;
+}
+
+.avatar{
+    width: 100px;
+    text-align: center;
+}
+.img{
+    width: 200px;
+    text-align: center;
+}
+
+.myform{
+    width: 450px;
+    margin: 0 auto;
+    padding: 5px
+    background: white;
+
+}
+
+.inputvalues{
+    width: 430px;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+#login_btn{
+    margin-top: 10px;
+    background-color: #ecf0f1;
+    padding: 5px;
+    color: black;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+#register_btn{
+    margin-top: 10px;
+    background-color: #ecf0f1;
+    padding: 5px;
+    color: black;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+#signup_btn{
+    margin-top: 10px;
+    background-color: #ecf0f1;
+    padding: 5px;
+    color: black;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#back_btn{
+    margin-top: 10px;
+    background-color: #ecf0f1;
+    padding: 5px;
+    color: black;
+    width: 40%;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+#logout_btn{
+    margin-top: 10px;
+    background-color: #ecf0f1;
+    padding: 5px;
+    color: black;
+    width: 50%;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+#add_btn{
+    margin-top: 10px;
+    background-color: #ecf0f1;
+    padding: 5px;
+    color: black;
+    width: 50%;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+#del_btn{
+    margin-top: 10px;
+    background-color: #ecf0f1;
+    padding: 5px;
+    color: black;
+    width: 50%;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+#list_btn{
+    margin-top: 10px;
+    background-color: #ecf0f1;
+    padding: 5px;
+    color: black;
+    width: 50%;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+#book_btn{
+    margin-top: 10px;
+    background-color: #ecf0f1;
+    padding: 5px;
+    color: black;
+    width: 50%;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+#search_btn{
+    margin-top: 10px;
+    background-color: #ecf0f1;
+    padding: 5px;
+    color: black;
+    width: 50%;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+#logout_btn{
+    margin-top: 10px;
+    background-color: #ecf0f1;
+    padding: 5px;
+    color: black;
+    width: 50%;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+#addeventdone_btn{
+    margin-top: 10px;
+    background-color: #ecf0f1;
+    padding: 5px;
+    color: black;
+    width: 40%;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
